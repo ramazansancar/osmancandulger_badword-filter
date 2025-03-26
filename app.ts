@@ -1,4 +1,4 @@
-interface ValidationOptions {
+export interface ValidationOptions {
   language: string;
   swear?: boolean;
   negative?: boolean;
